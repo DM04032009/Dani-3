@@ -1,0 +1,66 @@
+body {
+    background: rgb(197, 244, 255);
+    font-family: "Yuji Mai", serif;
+}
+
+
+
+
+header {
+    font-size: 45px;
+    font-family: "Yuji Mai", serif;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-family: "PT Serif", serif;
+    font-size: 34px;
+}
+
+p {
+    font-family: "Yuji Mai", serif;
+}
+
+a {
+    text-decoration: none;
+    font-size: 32px;
+
+}
+
+a:hover {
+    color: rgb(95, 7, 7)
+}
+
+
+.categoria-videos{
+    display: flex;
+    gap: 10px;
+   width: 350px;
+   height: 450px;
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+opacity: 0.8;
+height: 350px;
+width: 550px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid purple;
+}
+
+.chamada-texto h1{
+    font-size: 34px;
+    font-family:   "Dancing Script", serif;
+}
+
+.link-externo {
+    padding-left: 90%;
+}

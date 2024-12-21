@@ -1,0 +1,51 @@
+body {
+   background: rgb(197, 244, 255);
+   color: black;
+   margin: 0px;
+   font-family: "Dancing Script", cursive;
+}
+
+.fotos {padding-top: 30px;
+padding-bottom: 30px;
+}
+
+
+div  { padding-left: 10px;
+
+}
+header {
+   font-size: 22px;
+   padding-left: 10px;
+   
+}
+
+
+title {
+   color: rgb(255, 0, 0)
+}
+
+h1 {
+  font-size: 32px;
+   font-family: "Parkinsans", sans-serif;
+   margin: 2 0px;
+}
+
+
+
+h2 {
+   color: rgb(104, 10, 29);
+}
+
+.fotos img {
+   padding-left: 20px;
+}
+
+a{
+   text-decoration: none;
+    margin-left: 87%;
+    font-size: 22px;
+}
+
+a:hover {
+   color: rgb(95, 7, 7)
+}
